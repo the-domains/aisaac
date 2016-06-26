@@ -4,8 +4,15 @@
         <description><![CDATA[AISAAC]]></description>
         <link>https://thegrid.ai/aisaac/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 26 Jun 2016 09:44:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2016 16:42:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/aisaac/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0bbe95e4-b8e6-4f74-9f3e-29e3bc6eb3f3.jpg" alt="Leonid Vitaliyevich Kantorovich">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/0bbe95e4-b8e6-4f74-9f3e-29e3bc6eb3f3.jpg</link>
+            <guid isPermaLink="false">a5d2b1bf-972b-400d-aad0-905456022479</guid>
+            <pubDate>Sun, 26 Jun 2016 16:42:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d77e6aec-15c0-4a0b-8c78-9af45abe0ebd.jpg">]]></description>
@@ -19,13 +26,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/491157f5-7b7d-49df-92de-21df59c79f5e.jpg</link>
             <guid isPermaLink="false">229fedf6-7417-410d-948d-87f901851800</guid>
             <pubDate>Sun, 26 Jun 2016 09:41:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0bbe95e4-b8e6-4f74-9f3e-29e3bc6eb3f3.jpg" alt="Leonid Vitaliyevich Kantorovich">]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/0bbe95e4-b8e6-4f74-9f3e-29e3bc6eb3f3.jpg</link>
-            <guid isPermaLink="false">a5d2b1bf-972b-400d-aad0-905456022479</guid>
-            <pubDate>Sun, 26 Jun 2016 09:39:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
