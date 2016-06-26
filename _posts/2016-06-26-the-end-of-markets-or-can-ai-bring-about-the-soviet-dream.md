@@ -1,13 +1,13 @@
 ---
 description: 'THE END OF MARKETS, OR CAN AI BRING ABOUT THE SOVIET DREAM?'
-dateModified: '2016-06-26T09:39:39.134Z'
-datePublished: '2016-06-26T09:39:52.351Z'
+dateModified: '2016-06-26T16:42:42.317Z'
+datePublished: '2016-06-26T16:42:48.795Z'
 title: ''
 author: []
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0bbe95e4-b8e6-4f74-9f3e-29e3bc6eb3f3.jpg
-starred: false
 sourcePath: _posts/2016-06-26-the-end-of-markets-or-can-ai-bring-about-the-soviet-dream.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
