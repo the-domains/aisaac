@@ -1,0 +1,14 @@
+layout_spectrum: 0.8561049662530422
+typography_spectrum: 0.40793633344583213
+color:
+  brandStrength: 0.18578662420623004
+  lightness: 0.64913573814556
+  saturation: 0.7594459371175617
+  rhythmicContrast: 0.9753647497855127
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: AISAAC
